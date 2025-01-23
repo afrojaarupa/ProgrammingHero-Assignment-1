@@ -249,3 +249,45 @@ thead
     text-align: center;
 }
 
+
+/* section - 06 styles*/
+.date-time
+{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(14, 14, 14, .7);
+}
+.section-6-p
+{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(14,14,14,.7);
+    margin-top: 24px;
+}
+.section-6-h
+{
+    font-weight: 700;
+    font-size: 32px;
+    color: rgba(14, 14, 14, .8);
+    margin-bottom: 12px;
+}
+.section-6-flex
+{
+    display: flex;
+    gap: 32px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    padding: 48px;
+}
+.section-6-btn
+{
+    font-size:18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #006A50;
+    border: none;
+    padding: 13px 26px;
+    border-radius: 8px;
+}
+
+
