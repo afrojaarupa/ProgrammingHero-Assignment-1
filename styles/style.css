@@ -162,3 +162,34 @@ ul
     border-radius: 8px;
     border: none;
 }
+
+/* section- 04 */
+.section-4
+{
+    background: #FFFFFF url("/B11A1--assignment-1/assets/quote-bg.png") no-repeat 2% 12%;
+
+    padding: 48px 24px;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14, .15);
+}
+.section-4 h3
+{
+    margin-top: 12px;
+    margin-bottom: 6px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    color: rgba(14, 14, 14, .8);
+}
+.section-4 p
+{
+    margin: 0;
+    color: rgba(14, 14, 14, .8);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.section-4 h3 + p
+{
+    color: rgba(14, 14, 14, .6);
+}
