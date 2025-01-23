@@ -120,3 +120,45 @@ ul
     font-size: 20px;
     color: rgb(14, 14, 14, .8);
 }
+
+/* section- 03 styles*/
+.card.bg
+{
+    padding: 32px;
+}
+
+.bg-sky
+{
+    background-color: rgba(84, 144, 245, .2);
+    border: none;
+}
+
+.bg-green
+{
+    background-color: rgba(198, 228, 214, 1);
+    border: none;
+}
+
+.bg-orange
+{
+    background-color: #F7EBCF;
+    border: none;
+}
+.card.bg-sky button{
+    background-color: #5490F5;
+}
+.card.bg-green button{
+    background-color:#09A15C;
+}
+.card.bg-orange button{
+    background-color: #FFC239;
+}
+.card button
+{
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+}
