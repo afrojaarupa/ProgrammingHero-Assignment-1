@@ -291,3 +291,70 @@ thead
 }
 
 
+/* section - 07 styles */
+.section-7-h
+{
+    font-weight: 700;
+    font-size: 40px;
+    color:#0E0E0E;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+.section-7-btn
+{
+    font-weight: 700;
+    font-size: 40px;
+    color: rgba(14, 14, 14, .8);
+    padding: 40px;
+    gap: 24px;
+    border-radius: 16px;
+}
+.section-7-btn-2
+{
+    font-size:18px;
+    font-weight: 600;
+    padding: 17px 34px;
+    color:#FFFFFF ;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
+
+.section-7-div
+{
+    display: flex;
+    justify-content:center;
+    gap:24px;
+}
+.section-7-p
+{
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(14,14,14,.7);
+    text-align: center;
+    margin-bottom: 32px;
+}
+.color
+{
+    background-color: #C6E4D6;
+}
+.other-amount
+{
+    text-align: center;
+    background-color: #FFFFFF;
+    padding: 20px 40px;
+    margin: 32px auto;
+    font-size: 20px;
+    color: rgba(14, 14, 14, .3);
+    border: none;
+    border-bottom: 1px solid rgba(14, 14, 14, .15);
+    outline: none;
+    display: block;
+    width: 1032px;
+}
+
+
+
