@@ -411,3 +411,27 @@ thead
     font-weight: 600;
 }
 
+/* footer styles */
+footer h3
+{
+    font-weight: 700;
+    font-size: 32px;
+    color: #0E0E0E;
+    text-align: center;
+
+}
+.footer-flex
+{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 50px;
+}
+
+footer hr
+{
+    width: 1122px;
+    border: 1px solid rgba(14, 14, 14, .1);
+    margin: 32px auto;
+}
