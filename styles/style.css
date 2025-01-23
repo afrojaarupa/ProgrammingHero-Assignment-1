@@ -99,3 +99,24 @@ ul
     border-radius: 8px;
     display: inline-block;
 }
+
+
+/* section - 02 styles */
+.card
+{
+    background-color: #FFFFFF;
+    padding: 24px;
+    border-radius: 16px;
+    border: 1px solid rgba(14, 14, 14,.15);
+}
+.h-4 + p
+{
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+.head-dec
+{
+    font-weight: 700;
+    font-size: 20px;
+    color: rgb(14, 14, 14, .8);
+}
